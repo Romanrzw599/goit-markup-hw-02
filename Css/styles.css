@@ -21,8 +21,7 @@ body {
     font-family: var(--logo-font);
     font-family: var(--main-font);
     background-color: var(--main);
-    font-family: logo-font: "Raleway", sans-serif;
-
+    font-family: logo-font"Raleway",sans-serif;
 }
 
 ul {
@@ -112,7 +111,7 @@ ul {
     height: 50px;
     top: 430px;
     left: 692px;
-    radius: 4px;
+    padding: 4px;
 }
 
 .secondery {
