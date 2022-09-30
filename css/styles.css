@@ -145,6 +145,8 @@ ul {
   line-height: 1.62;
   letter-spacing: 0.03em;
   cursor: pointer;
+  background-color: var(--color-text-hero);
+  color: var(--color-nav-link);
 }
 
 .portfolio-button-list:hover,
@@ -155,6 +157,7 @@ ul {
 .portfolio-button-list:hover,
 .portfolio-botton-list:focus {
     background-color: var(--accent-text-color)
+    
 }
 
  .work {
