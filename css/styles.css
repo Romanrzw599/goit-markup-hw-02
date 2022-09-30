@@ -50,9 +50,6 @@ ul {
 
 }
 
-.hero {
-   
-}
 
 .site-nav .link {
     color: var(--color-nav-link);
@@ -258,9 +255,6 @@ ul {
 
 }
 
-.my-tiam {
-
-}
 
 .tiam-men {
 font-family: "Roboto", sans-serif;
@@ -312,4 +306,3 @@ color: #757575;
     color: #757575;
 }
 
-.text-decoration:none
