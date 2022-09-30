@@ -13,13 +13,13 @@
     --color-text-feature: #757575;
     --color-logo-title: #2196F3;
     --color-logo-list: #000000;
+    --portfolio-main-color: #f5f5f5;
 
 
 }
 
 body {
     font-family: var(--main-font);
-    background-color: var(--main);
     
 }
 
