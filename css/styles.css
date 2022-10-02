@@ -186,14 +186,14 @@ ul {
 
 
 .portfolio-button-list:hover,
-.portfolio-botton-list:focus {
+.portfolio-button-list:focus {
     color: var(--color-text-hero);
     
 }
 
 
 .portfolio-button-list:hover,
-.portfolio-botton-list:focus {
+.portfolio-button-list:focus {
     background-color: var(--accent-text-color);
 }
    
